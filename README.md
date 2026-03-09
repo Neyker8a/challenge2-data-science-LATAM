@@ -95,7 +95,3 @@ jupyter notebook
 El análisis permitió identificar varios factores asociados con la evasión de clientes, como el tipo de contrato, el tiempo de permanencia y el costo del servicio. Estos hallazgos pueden ayudar a diseñar estrategias de retención y mejorar la experiencia del cliente.
 
 ---
-
-## Autor
-
-Proyecto realizado como parte de un desafío de análisis de datos utilizando Python.
